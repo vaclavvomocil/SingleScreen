@@ -13,7 +13,8 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_margin="16dp"
+        android:layout_marginLeft="16dp"
+        android:layout_marginTop="5dp"
         android:text="Name: SK Slavia Praha football club"
         android:textColor="@color/colorPrimaryDark"
         android:textSize="20sp" />
